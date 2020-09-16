@@ -1,0 +1,630 @@
+
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:46:42 2019
+
+Arquivo:ed-100.txt
+Criar Docker:0.509ms
+Ordenar:0.234ms
+Imprimir:3.012ms
+Pesquisar com sucesso:0.063ms
+Pesquisar sem sucesso:0.054ms
+Tempo final: 3.872ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][j][k][l][m]
+[o][p][q][r][s][t][v][w][y]
+Media de espaco livre no docker: 77%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:46:50 2019
+
+Arquivo:ed-1000.txt
+Criar Docker:3.711ms
+Ordenar:5.174ms
+Imprimir:15.795ms
+Pesquisar com sucesso:0.109ms
+Pesquisar sem sucesso:0.073ms
+Tempo final: 24.862ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][y][z]
+Media de espaco livre no docker: 82%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:46:59 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.582ms
+Ordenar:213.035ms
+Imprimir:65.514ms
+Pesquisar com sucesso:0.072ms
+Pesquisar sem sucesso:0.116ms
+Tempo final: 304.319ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:47:08 2019
+
+Arquivo:ed-100.txt
+Criar Docker:1.741ms
+Ordenar:0.244ms
+Imprimir:3.085ms
+Pesquisar com sucesso:0.06ms
+Pesquisar sem sucesso:0.078ms
+Tempo final: 5.208ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][j][k][l][m]
+[o][p][q][r][s][t][v][w][y]
+Media de espaco livre no docker: 77%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:47:17 2019
+
+Arquivo:ed-1000.txt
+Criar Docker:4.209ms
+Ordenar:4.843ms
+Imprimir:12.846ms
+Pesquisar com sucesso:0.091ms
+Pesquisar sem sucesso:0.121ms
+Tempo final: 22.11ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][y][z]
+Media de espaco livre no docker: 82%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:47:25 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:24.135ms
+Ordenar:217.902ms
+Imprimir:54.361ms
+Pesquisar com sucesso:0.132ms
+Pesquisar sem sucesso:0.105ms
+Tempo final: 296.635ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:48:14 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.2ms
+Ordenar:211.439ms
+Imprimir:65.822ms
+Pesquisar com sucesso:0.116ms
+Pesquisar sem sucesso:0.168ms
+Tempo final: 302.745ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:48:23 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:27.239ms
+Ordenar:203.326ms
+Imprimir:60.925ms
+Pesquisar com sucesso:0.1ms
+Pesquisar sem sucesso:0.153ms
+Tempo final: 291.743ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:48:33 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:24.213ms
+Ordenar:238.419ms
+Imprimir:71.477ms
+Pesquisar com sucesso:0.091ms
+Pesquisar sem sucesso:0.143ms
+Tempo final: 334.343ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:48:48 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:17.929ms
+Ordenar:236.577ms
+Imprimir:74.841ms
+Pesquisar com sucesso:0.168ms
+Pesquisar sem sucesso:0.154ms
+Tempo final: 329.669ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:49:10 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:32.961ms
+Ordenar:211.659ms
+Imprimir:81.723ms
+Pesquisar com sucesso:0.103ms
+Pesquisar sem sucesso:0.211ms
+Tempo final: 326.657ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:49:17 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.867ms
+Ordenar:211.538ms
+Imprimir:63.542ms
+Pesquisar com sucesso:0.06ms
+Pesquisar sem sucesso:0.119ms
+Tempo final: 301.126ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:49:26 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:29.191ms
+Ordenar:208.192ms
+Imprimir:66.174ms
+Pesquisar com sucesso:0.058ms
+Pesquisar sem sucesso:0.121ms
+Tempo final: 303.736ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:49:34 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:23.072ms
+Ordenar:201.459ms
+Imprimir:53.547ms
+Pesquisar com sucesso:0.172ms
+Pesquisar sem sucesso:0.183ms
+Tempo final: 278.433ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:52:20 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:27.525ms
+Ordenar:219.965ms
+Imprimir:66.618ms
+Pesquisar com sucesso:0.134ms
+Pesquisar sem sucesso:0.272ms
+Tempo final: 314.514ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:52:44 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.962ms
+Ordenar:248.47ms
+Imprimir:74.082ms
+Pesquisar com sucesso:0.065ms
+Pesquisar sem sucesso:0.152ms
+Tempo final: 348.731ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:52:51 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:34.701ms
+Ordenar:208.264ms
+Imprimir:57.031ms
+Pesquisar com sucesso:0.248ms
+Pesquisar sem sucesso:0.175ms
+Tempo final: 300.419ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:54:02 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:22.015ms
+Ordenar:203.112ms
+Imprimir:51.829ms
+Pesquisar com sucesso:0.105ms
+Pesquisar sem sucesso:0.188ms
+Tempo final: 277.249ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:54:49 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.957ms
+Ordenar:204.108ms
+Imprimir:62.31ms
+Pesquisar com sucesso:0.061ms
+Pesquisar sem sucesso:0.122ms
+Tempo final: 292.558ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:55:15 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:26.015ms
+Ordenar:233.974ms
+Imprimir:76.924ms
+Pesquisar com sucesso:0.224ms
+Pesquisar sem sucesso:0.25ms
+Tempo final: 337.387ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:55:22 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:23.32ms
+Ordenar:211.106ms
+Imprimir:53.289ms
+Pesquisar com sucesso:0.072ms
+Pesquisar sem sucesso:0.145ms
+Tempo final: 287.932ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Mon Nov 18 01:55:41 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.3ms
+Ordenar:230.767ms
+Imprimir:53.114ms
+Pesquisar com sucesso:0.142ms
+Pesquisar sem sucesso:0.162ms
+Tempo final: 309.485ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 21:59:49 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.443ms
+Ordenar:195.789ms
+Imprimir:60.927ms
+Pesquisar com sucesso:0.129ms
+Pesquisar sem sucesso:0.202ms
+Tempo final: 282.49ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:02:04 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:28.297ms
+Ordenar:197.865ms
+Imprimir:36.175ms
+Pesquisar com sucesso:0.127ms
+Pesquisar sem sucesso:0.254ms
+Tempo final: 262.718ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:02:16 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:33.637ms
+Ordenar:228.237ms
+Imprimir:44.827ms
+Pesquisar com sucesso:0.082ms
+Pesquisar sem sucesso:0.117ms
+Tempo final: 306.9ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:04:29 2019
+
+Arquivo:ed-100.txt
+Criar Docker:0.659ms
+Ordenar:0.224ms
+Imprimir:0.746ms
+Pesquisar com sucesso:0.054ms
+Pesquisar sem sucesso:0.051ms
+Tempo final: 1.734ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][j][k][l][m]
+[o][p][q][r][s][t][v][w][y]
+Media de espaco livre no docker: 77%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:04:47 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:26.391ms
+Ordenar:200.237ms
+Imprimir:40.388ms
+Pesquisar com sucesso:0.09ms
+Pesquisar sem sucesso:0.11ms
+Tempo final: 267.216ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:05:26 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:26.098ms
+Ordenar:244.182ms
+Imprimir:42.69ms
+Pesquisar com sucesso:0.072ms
+Pesquisar sem sucesso:0.176ms
+Tempo final: 313.218ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:06:28 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.877ms
+Ordenar:194.436ms
+Imprimir:28.141ms
+Pesquisar com sucesso:0.113ms
+Pesquisar sem sucesso:0.224ms
+Tempo final: 248.791ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:07:44 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:25.303ms
+Ordenar:205.558ms
+Imprimir:29.34ms
+Pesquisar com sucesso:0.053ms
+Pesquisar sem sucesso:0.158ms
+Tempo final: 260.412ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:07:58 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:26.093ms
+Ordenar:254.268ms
+Imprimir:40.712ms
+Pesquisar com sucesso:0.062ms
+Pesquisar sem sucesso:0.114ms
+Tempo final: 321.249ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:43:54 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:26.26ms
+Ordenar:209.254ms
+Imprimir:42.79ms
+Pesquisar com sucesso:0.374ms
+Pesquisar sem sucesso:13.328ms
+Tempo final: 292.006ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:50:04 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:26.876ms
+Ordenar:216.62ms
+Imprimir:38.284ms
+Pesquisar com sucesso:2.166ms
+Pesquisar sem sucesso:14.505ms
+Tempo final: 298.451ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Tue Nov 19 22:50:29 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:27.904ms
+Ordenar:208.694ms
+Imprimir:30.256ms
+Pesquisar com sucesso:5.587ms
+Pesquisar sem sucesso:14.486ms
+Tempo final: 286.927ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Wed Nov 20 02:06:40 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:19.073ms
+Ordenar:199.741ms
+Imprimir:38.304ms
+Pesquisar com sucesso:0.078ms
+Pesquisar sem sucesso:0.19ms
+Tempo final: 257.386ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Wed Nov 20 02:07:06 2019
+
+Arquivo:ed-7500.txt
+Criar Docker:26.186ms
+Ordenar:195.326ms
+Imprimir:39.256ms
+Pesquisar com sucesso:0.13ms
+Pesquisar sem sucesso:0.236ms
+Tempo final: 261.134ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][h][i][j][k][l][m][n]
+[o][p][q][r][s][t][u][v][w][x][y][z]
+Media de espaco livre no docker: 84%
+-------------------------------------------------------------------------------------
+                              Thu Nov 28 15:25:12 2019
+
+Arquivo:ed-100.txt
+Criar Docker:1ms
+Ordenar:0ms
+Imprimir:2ms
+Pesquisar com sucesso:0ms
+Pesquisar sem sucesso:0ms
+Tempo final: 3ms
+/////////////////////////////////////////////////////////////////////////
+
+[System LOG]
+Container usados:
+[a][b][c][d][e][f][g][j][k][l][m]
+[o][p][q][r][s][t][v][w][y]
+Media de espaco livre no docker: 79%
